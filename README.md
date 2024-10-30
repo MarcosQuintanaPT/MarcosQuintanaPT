@@ -2,7 +2,7 @@
 
 👀 I’m interested in data analysis related to health sciences and meta-analysis
 
-🌱 I’m currently learning Python for data analysis and expanding my knowledge of R
+🌱 I’m currently learning Python for data analysis and expanding my knowledge about R
 
 📫 You can contact me via email (marcosquintana99@gmail.com) or Twitter/X (@MQuintanaPT
 <!---
